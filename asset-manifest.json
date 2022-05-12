@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/webtest/webtest_booksearch/static/css/main.c6820695.css",
+    "main.js": "/webtest/webtest_booksearch/static/js/main.bbc587c3.js",
+    "static/media/study.jpg": "/webtest/webtest_booksearch/static/media/study.63f3dda3eab35f8fcd02.jpg",
+    "index.html": "/webtest/webtest_booksearch/index.html",
+    "main.c6820695.css.map": "/webtest/webtest_booksearch/static/css/main.c6820695.css.map",
+    "main.bbc587c3.js.map": "/webtest/webtest_booksearch/static/js/main.bbc587c3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c6820695.css",
+    "static/js/main.bbc587c3.js"
+  ]
+}
